@@ -1,0 +1,17 @@
+Xinchen Cai(1002168851)
+Admin User log in / sign up
+Admin Interface(daily report, check user, check feedback)
+Open / Close system / check system status
+User tap in / tap out
+
+Baizhou Xing(1002586212)
+Preview cost
+Logger
+UML
+
+Yun Qi Fang(1003332128)
+    - log in/ sign up
+    - show account detail/ loyalty summary/ recent 3 trips
+    - change username/ change password
+    - manage card(add card, remove card, check status,check balance)/ load card/  suspend/unsuspend card
+    - feedback

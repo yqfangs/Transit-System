@@ -1,0 +1,22 @@
+Project CSC207:Project phase 2
+
+This program is about a transit system simulation that tracks and calculates fares for anyone who uses a travel card
+to enter and exit the transit system.
+
+Getting Started:
+Please sign up both admin user account(the admin user code is required for sign up, which is group0127)
+ and card user account.
+ The system is close in default, you need to login to admin user account to open the system before card users can use the
+ transit system.
+ Also you need to login to the card user account -> Manage my card -> add card, so card users can access to further
+ functionality.
+
+When user tap in or tap out on a transit system, they need to enter the date, time, cardID and station/stop manually,
+due to we do not have a card sensor as in the reality.
+
+Authors:
+Yun Qi Fang
+Xinchen Cai
+Baizhou Xing
+
+
